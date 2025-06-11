@@ -1,36 +1,17 @@
-# AI-Info-Extractor
+**介绍**
 
-#### Description
-利用AI模型结构化提取信息（ChatGPT或DeepSeek）
+利用AI模型结构化提取信息（ChatGPT或DeepSeek），可搭配小红书笔记爬取脚本使用（https://gitee.com/sidchen0122/red-note-spider.git
 
-#### Software Architecture
-Software architecture description
+由公众号[规划人在路上]负责运营，有限技术支持：sidchen0@qq.com
 
-#### Installation
+**使用说明**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+依据提示操作
 
-#### Instructions
+**更新情况**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+20250207:
 
-#### Contribution
+修复gpt返回不规范数据时，无法解析而报错退出的问题 20250206：
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+发布脚本 （仅适配ChatGPT）
