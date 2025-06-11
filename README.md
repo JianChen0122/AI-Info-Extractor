@@ -1,14 +1,14 @@
 # AI-Info-Extractor
 
-#### Introduction
+## Introduction
 
 Using AI models (ChatGPT) to batch data extraction tasks.
 
-#### Guidance
+## Guidance
 
 Follow the prompts after running the Script<br>
 
-#### Update logs
+## Update logs
 20250207:<br>
     Fix bug: exit without prompts when received unexpected results from ChatGPT
 20250206：<br>
